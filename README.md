@@ -1,5 +1,3 @@
 <div dir=rtl>
 
-# مستندات
-
-* [شیوه‌نامه‌ی مشارکت](/code-of-conduct.md)
+این پروژه به دلایل سیاست‌های غلط گیت‌هاب، به [گیت‌لب](https://github.com/OSMIran/Documents) منتقل شده است.
